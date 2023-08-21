@@ -33,4 +33,5 @@ multiplicarCcomD= entradaVariavelC*entradaVariavelD
 multiplicarBcomD= entradaVariavelB*entradaVariavelD
 
 #saida de dados#
-print
+print(somarAcomB,somarAcomC,somarAcomD,somarBcomC, somarBcomD,somarCcomD)
+print(multiplicarAcomB,multiplicarAcomC,multiplicarAcomD, multiplicarBcomC, multiplicarBcomD,multiplicarAcomB, multiplicarCcomD)
