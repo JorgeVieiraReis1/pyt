@@ -16,4 +16,4 @@ fahrenheit = (9*celsius+160)/5
 
 
 #Saída de dados
-print ('o valor convertido é :'fahrenheit, 'ºF')
+print('o valor convertido é :',fahrenheit, 'ºF')
