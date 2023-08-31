@@ -5,8 +5,8 @@
 # Ex: “Bem-vindo Ilmo. Sr. José”
 
 #entrada
-nome = input("Digite seu nome")
-sexo = input("Digite o seu sexo, f(feminino)m(masculino):")
+nome = input("Digite seu nome: ")
+sexo = input("Digite o seu sexo, f(feminino)m(masculino): ")
 
 #Processo
 if(sexo == 'm'):
